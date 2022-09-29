@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/dnh273?label=Follow&style=social)](https://github.com/dnh273)
 
-I'm a student from PTIT.
+I'm a student from PTIT. I'm trying to be the best version of myself
 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
