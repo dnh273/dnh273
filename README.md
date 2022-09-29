@@ -4,6 +4,7 @@
   
 
 <h1 align="center">Hi 👋, I'm Huy</h1>
+   <img width="200px" width="auto" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif" alt="cat"/>
 <h3 align="center">I'm a student from PTIT. I'm trying to be the best version of myself</h3>
 
 
@@ -15,6 +16,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnh273&langs_count=8&theme=dark" alt="Huy's Language stats" />
 </a>
+ 
 </div>
 
 <br/>
