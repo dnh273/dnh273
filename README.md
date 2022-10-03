@@ -4,7 +4,7 @@
   
 
 <h1 align="center">Hi 👋, I'm Huy</h1>
-   <img width="200px" width="auto" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif" alt="cat"/>
+   <img width="200px" width="auto" src="https://lh3.googleusercontent.com/a-/ACNPEu_hZWxXAePu2QguO2FGheJapGZGJoC90nK_5bd4AA=s288-p-rw-no" alt="cat"/>
 <h3 align="center">I'm a student from PTIT. I'm trying to be the best version of myself</h3>
 
 
